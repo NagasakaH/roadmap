@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		"editorconfig.editorconfig",
+		"dbaeumer.vscode-eslint",
+		"oderwat.indent-rainbow",
+		"yzhang.markdown-all-in-one",
+		"davidanson.vscode-markdownlint",
+		"shd101wyy.markdown-preview-enhanced",
+		"esbenp.prettier-vscode",
+		"hediet.vscode-drawio"
+	]
+}
