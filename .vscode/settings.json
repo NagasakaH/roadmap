@@ -1,5 +1,5 @@
 {
   "hediet.vscode-drawio.plugins": [
-    { "file": "${workspaceFolder}/plugins/svgdata.js" }
-  ],
+    {"file": "${workspaceFolder}/plugins/svgdata.js"}
+  ]
 }
