@@ -1,0 +1,91 @@
+/*!**********************!*\
+          !*** ./src/index.ts ***!
+          \**********************/
+
+/*!*************************!*\
+          !*** ./src/overlay.css ***!
+          \*************************/
+
+/*!******************************************!*\
+          !*** ./node_modules/chroma-js/chroma.js ***!
+          \******************************************/
+
+/*!********************************************!*\
+          !*** ./node_modules/marked/lib/marked.cjs ***!
+          \********************************************/
+
+/*!*****************************************************!*\
+          !*** ./node_modules/css-loader/dist/runtime/api.js ***!
+          \*****************************************************/
+
+/*!**************************************************************!*\
+          !*** ./node_modules/css-loader/dist/runtime/noSourceMaps.js ***!
+          \**************************************************************/
+
+/*!***************************************************************!*\
+          !*** ./node_modules/style-loader/dist/runtime/styleDomAPI.js ***!
+          \***************************************************************/
+
+/*!********************************************************************!*\
+          !*** ./node_modules/style-loader/dist/runtime/insertBySelector.js ***!
+          \********************************************************************/
+
+/*!*********************************************************************!*\
+          !*** ./node_modules/style-loader/dist/runtime/styleTagTransform.js ***!
+          \*********************************************************************/
+
+/*!**********************************************************************!*\
+          !*** ./node_modules/style-loader/dist/runtime/insertStyleElement.js ***!
+          \**********************************************************************/
+
+/*!****************************************************************************!*\
+          !*** ./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js ***!
+          \****************************************************************************/
+
+/*!**********************************************************************************!*\
+          !*** ./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js ***!
+          \**********************************************************************************/
+
+/*!*******************************************************************************************!*\
+          !*** ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/overlay.css ***!
+          \*******************************************************************************************/
+
+/**
+ * @license React
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
