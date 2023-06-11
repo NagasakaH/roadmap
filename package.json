@@ -2,6 +2,7 @@
   "name": "svgtest",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nagasakah.github.io/roadmap/",
   "dependencies": {
     "@nagasakah/reactive-svg": "^0.0.8",
     "@testing-library/jest-dom": "^5.16.5",
